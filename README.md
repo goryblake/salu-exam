@@ -1,4 +1,4 @@
-# salu-exam
+# Projeto Salú
 Repositorio para o projeto solicitado pela rede de saúde Salú
 ## Como o Código Funciona
 
